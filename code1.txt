@@ -1,0 +1,9 @@
+My first code 
+red
+blue
+orange
+pink
+white
+black
+purple
+brown
